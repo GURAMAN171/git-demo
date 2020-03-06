@@ -16,7 +16,7 @@ main()
 	int choice,item;
 	while(1)
 	{
-		printf("\n------------SELECT YOUR  HELLo----\n");
+		printf("\n------------SELECT CHANGE IN REMOTE DONE----\n");
 
 			printf("\n------------CHANGE IN MASTER BRANCH----------\n");
 

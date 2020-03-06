@@ -17,7 +17,7 @@ main()
 	while(1)
 	{
 		printf("\n------------SELECT YOUR OPTION------------\n");
-			printf("\n------------SELECT YOUR OPTION222222222222------------\n");
+			printf("\n------------CHANGE IN MASTER BRANCH----------\n");
 		printf("1.INSERT\n");
 		printf("2.DELETE\n");
 		printf("3.DISPLAY ELEMENT AT THE FRONT\n");
